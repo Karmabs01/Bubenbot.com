@@ -8,7 +8,6 @@ import { useTopBrandsFilter } from "@/components/useBrands";
 import Loader from "@/components/Loader";
 import FilterLoader from "@/components/FilterLoader";
 
-
 import {
   Gift,
   ShieldPlus,
