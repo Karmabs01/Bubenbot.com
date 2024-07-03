@@ -70,7 +70,7 @@ export default async function Privacy() {
         <p>
           If you have any questions, concerns, or requests related to your
           personal information or this Privacy Policy, please contact us at
-          <a href="mailto:admin@Bubenbot.com"> admin@Bubenbot.com</a>. We will make
+          <a href="mailto:admin@bubenbot.com"> admin@bubenbot.com</a>. We will make
           reasonable efforts to address your inquiries in a timely manner. By
           using Bubenbot.com, you agree to the practices outlined in this
           Privacy Policy. If you do not agree with any part of this policy,
